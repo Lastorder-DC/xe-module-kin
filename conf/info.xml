@@ -11,8 +11,9 @@
     <category>service</category>
 
     <author email_address="developers@xpressengine.com" link="http://www.xpressengine.com">
-        <name xml:lang="ko">NHN</name>
-		<name xml:lang="zh-CN">NHN</name>
-		<name xml:lang="en">NHN</name>
+        <name xml:lang="en">NAVER</name>
+    </author>
+    <author email_address="lastorder@lastorder.xyz" link="https://lastorder.xyz">
+        <name xml:lang="en">Lastorder_DC</name>
     </author>
 </module>
